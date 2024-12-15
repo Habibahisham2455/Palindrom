@@ -1,5 +1,5 @@
 s=input("please enter a string ")
-substring=0 #cannot e list if we do assignig
+substring=0 #cannot be list if we do assignig
 palindrom=[]
 for i in range(len(s)):
     for j in range(i,len(s)):
